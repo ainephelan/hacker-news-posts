@@ -17,7 +17,7 @@ We're specifically interested in posts whose titles begin with either Ask HN or 
   - `Show HN: Something pointless I made`
 
 ## Aim
-The aim of this project is to compare these two types of posts (Ask HN and Show HN) to determine the following:
+The aim of this project is to compare these two types of posts (`Ask HN` and `Show HN`) to determine the following:
 
 1. Do Ask HN or Show HN receive more comments on average?
 2. Do posts created at a certain time receive more comments on average?
