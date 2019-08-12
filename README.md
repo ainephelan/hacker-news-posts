@@ -1,5 +1,6 @@
 # hacker-news-posts
-Exploration of Hacker News posts
+Exploration of Hacker News posts  
+Completed 26-Feb-2019  
 
 ## Context
 [Hacker News](https://news.ycombinator.com/) is a site started by the startup incubator Y Combinator, where user-submitted stories (known as 'posts') are voted and commented upon. Hacker News is extremely popular in technology and startup circles, and posts that make it to the top of Hacker News' listings can get hundreds of thousands of visitors as a result.
